@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://srinanoo.github.io/react-admin/static/css/main.e6c13ad2.css",
-    "main.js": "https://srinanoo.github.io/react-admin/static/js/main.39db88dc.js",
-    "static/js/787.3ce4cc4d.chunk.js": "https://srinanoo.github.io/react-admin/static/js/787.3ce4cc4d.chunk.js",
-    "index.html": "https://srinanoo.github.io/react-admin/index.html",
-    "main.e6c13ad2.css.map": "https://srinanoo.github.io/react-admin/static/css/main.e6c13ad2.css.map",
-    "main.39db88dc.js.map": "https://srinanoo.github.io/react-admin/static/js/main.39db88dc.js.map",
-    "787.3ce4cc4d.chunk.js.map": "https://srinanoo.github.io/react-admin/static/js/787.3ce4cc4d.chunk.js.map"
+    "main.css": "'https://srinanoo.github.io/react-admin/';/static/css/main.e6c13ad2.css",
+    "main.js": "'https://srinanoo.github.io/react-admin/';/static/js/main.1bce60d0.js",
+    "static/js/787.3ce4cc4d.chunk.js": "'https://srinanoo.github.io/react-admin/';/static/js/787.3ce4cc4d.chunk.js",
+    "index.html": "'https://srinanoo.github.io/react-admin/';/index.html",
+    "main.e6c13ad2.css.map": "'https://srinanoo.github.io/react-admin/';/static/css/main.e6c13ad2.css.map",
+    "main.1bce60d0.js.map": "'https://srinanoo.github.io/react-admin/';/static/js/main.1bce60d0.js.map",
+    "787.3ce4cc4d.chunk.js.map": "'https://srinanoo.github.io/react-admin/';/static/js/787.3ce4cc4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.39db88dc.js"
+    "static/js/main.1bce60d0.js"
   ]
 }
